@@ -6,10 +6,10 @@ I love the world of technology and am so grateful to be able to work with it.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻  &nbsp; Python
 - 🌐  &nbsp; Node.js | React | React Native 
+- 💻  &nbsp; Javascript | Typescript | Python
 - 🛢  &nbsp; Postgres | MySQL | MongoDB | Oracle
-- 🔧  &nbsp; Visual Studio code | PyCharm | Git | Insomnia
+- 🔧  &nbsp; Git | Swagger | Jest | TypeORM
 - 🖥  &nbsp; Figma
 
 <br>
