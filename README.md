@@ -9,7 +9,7 @@ I love the world of technology and I am so grateful to be able to work with it.
 - 🌐  &nbsp; Node.js | React | React Native 
 - 💻  &nbsp; Javascript | Typescript | Python
 - 🛢  &nbsp; Postgres | MySQL | MongoDB | Oracle
-- 🔧  &nbsp; Git | Swagger | Jest | TypeORM
+- 🔧  &nbsp; Git | Swagger | Jest | TypeORM | GraphQL | Docker | Kafka
 - 🖥  &nbsp; Figma
 
 <br>
