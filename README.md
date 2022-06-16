@@ -2,7 +2,7 @@
 
 I'm a JavaScript Full-Stack Developer (Node.js, ReactJS, React Native).
 
-I love the world of technology and am so grateful to be able to work with it.
+I love the world of technology and I am so grateful to be able to work with it.
 
 <h3>🛠 Tech Stack</h3>
 
