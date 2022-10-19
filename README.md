@@ -1,6 +1,6 @@
 # Roberto Oliveira
 
-I'm a JavaScript Full-Stack Developer (Node.js, ReactJS, React Native).
+I'm a Full-Stack Developer.
 
 I love the world of technology and I am so grateful to be able to work with it.
 
