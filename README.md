@@ -7,10 +7,10 @@ I love the world of technology and I am so grateful to be able to work with it.
 <h3>🛠 Tech Stack</h3>
 
 - 🌐  &nbsp; Node.js | React | React Native 
-- 💻  &nbsp; Javascript | Typescript | Python
+- 💻  &nbsp; Javascript | Typescript | Java | Python
 - ✅  &nbsp; Clean Code | Clean Arch | TDD
 - 🛢  &nbsp; Postgres | MySQL | MongoDB | Oracle
-- 🔧  &nbsp; Git | Swagger | Jest | TypeORM | GraphQL | Docker | Kafka
+- 🔧  &nbsp; Git | Gitlab | Swagger | Jest | Junit | Supertest | Mockito | TypeORM | Docker | Kafka
 - 🖥  &nbsp; Figma
 
 <br>
