@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Roberto Oliveira
 
-## 💻 Backend Developer | Java & Typescript
+## 💻 Backend Developer | Java & JavaScript Specialist
 
 Passionate about technology and problem-solving, I love building scalable and efficient applications. With experience in backend development, I specialize in modern web and cloud-based solutions.
 
@@ -13,9 +13,9 @@ Passionate about technology and problem-solving, I love building scalable and ef
 - **Frameworks:** Spring Boot | Node.js | NestJS
 - **Architecture:** Clean Code | Clean Architecture | Hexagonal | TDD
 - **ORMs:** JPA | Hibernate | MyBatis | TypeORM | Prisma
-- **Message Brokers:** Kafka | BullMQ
+- **Message Brokers:** Kafka | RabbitMQ
 - **Testing:** JUnit | Mockito | Jest | Supertest
-- **Cloud & DevOps:** AWS S3 | Docker | CI/CD
+- **Cloud & DevOps:** AWS S3 | Docker | Terraform | CI/CD
 
 ### 🔹 Frontend & Mobile
 - **Frameworks:** React | React Native
