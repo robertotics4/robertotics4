@@ -33,9 +33,9 @@ Passionate about technology and problem-solving, I love building scalable and ef
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotics4&layout=compact&theme=radical)](https://github.com/robertotics4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotics4&layout=compact&theme=dracula)](https://github.com/robertotics4/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robertotics4&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robertotics4&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
