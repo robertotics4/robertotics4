@@ -1,33 +1,50 @@
-# Roberto Oliveira
+# 👋 Hey there! I'm Roberto Oliveira
 
-I'm a Full-Stack Developer.
+## 💻 Backend Developer | Java & Typescript
 
-I love the world of technology and I am so grateful to be able to work with it.
+Passionate about technology and problem-solving, I love building scalable and efficient applications. With experience in backend development, I specialize in modern web and cloud-based solutions.
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 🌐  &nbsp; Node.js | SpringBoot | React | React Native 
-- 💻  &nbsp; Javascript | Typescript | Java
-- ✅  &nbsp; Clean Code | Clean Arch | TDD
-- 🛢  &nbsp; Postgres | MySQL | MongoDB | Oracle
-- 🔧  &nbsp; Git | Gitlab | Swagger | Jest | Junit | Supertest | Mockito | TypeORM | Docker | Kafka
-- 🖥  &nbsp; Figma
+## 🚀 Tech Stack
 
-<br>
+### 🔹 Backend
+- **Languages:** Java | TypeScript
+- **Frameworks:** Spring Boot | Node.js | NestJS
+- **Architecture:** Clean Code | Clean Architecture | Hexagonal | TDD
+- **ORMs:** JPA | Hibernate | MyBatis | TypeORM | Prisma
+- **Message Brokers:** Kafka | BullMQ
+- **Testing:** JUnit | Mockito | Jest | Supertest
+- **Cloud & DevOps:** AWS S3 | Docker | CI/CD
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotics4&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/robertotics4/github-readme-stats)
+### 🔹 Frontend & Mobile
+- **Frameworks:** React | React Native
+- **UI/UX Tools:** Figma
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🔹 Databases
+- **SQL:** PostgreSQL | MySQL | SQL Server
+- **NoSQL:** MongoDB | Redis
+
+### 🔹 Tools & Others
+- **Version Control:** Git | GitHub | GitLab
+- **API Documentation:** Swagger | OpenAPI
+
+---
+
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotics4&layout=compact&theme=radical)](https://github.com/robertotics4/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertotics4&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/roberto-oliveira-938339125/"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/robertotics4"><img height="30px" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.instagram.com/robertooliveiracs4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br>
+---
 
-Thanks for visiting my profile! I hope you like my projects. 🙋🏽‍♂️
-
-<!---
-robertotics4/robertotics4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Always open to new opportunities and collaborations! Thanks for visiting my profile. Let's build something amazing together! 🙌
