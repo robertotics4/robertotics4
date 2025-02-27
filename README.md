@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Roberto Oliveira
 
-## 💻 Backend Developer | Java & JavaScript Specialist
+## 💻 Backend Developer | Java & JavaScript
 
 Passionate about technology and problem-solving, I love building scalable and efficient applications. With experience in backend development, I specialize in modern web and cloud-based solutions.
 
